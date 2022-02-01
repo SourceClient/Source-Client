@@ -4,11 +4,11 @@ As we head into 2022; Eternal, King Alts, and Azura's discords being terminated,
 
 ## Features
 Literally what any other client has:
-Killaura
-Scaffold
-Fly
-Disabler
-Step
-TargetStrafe
-ESP
-and AutoEZ
+Killaura,
+Scaffold,
+Fly,
+Disabler,
+Step,
+TargetStrafe,
+ESP,
+and AutoEZ.
